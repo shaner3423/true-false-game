@@ -3,7 +3,7 @@ window.alert("Welcome to the food triva! Click 'OK' to continue!")
 //Array quetisons
 var questions = [
     { q: 'Brown is the rarest M&M color.', a: 't' },
-    { q: 'Switzerland consumes the most chocolare per capita.', a: 't' },
+    { q: 'Switzerland consumes the most chocolate per capita.', a: 't' },
     { q: 'Gouda cheese originated in France.', a: 'f' },
     //Gouda cheese originated in Netherlands
     { q: 'Popsicle was invented by an 11 year old', a: 't' },
